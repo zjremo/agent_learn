@@ -1,0 +1,10 @@
+# tavily api key
+TAVILY_API_KEY=
+
+# LLM configuration for build LLM client
+OPENAI_API_KEY=
+OPENAI_BASE_URL=
+OPENAI_MODEL=
+
+# react max loop times
+REACT_MAX_LOOP=
