@@ -1,4 +1,3 @@
-from . import react
-from . import plan_and_solve
+from . import react, plan_and_solve, reflection
 
-__all__ = ['react', 'plan_and_solve']
+__all__ = ['react', 'plan_and_solve', 'reflection']
